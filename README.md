@@ -91,6 +91,11 @@ To get a local copy up and running, follow these simple example steps.
 
 ## Development
 
+### Configure
+
+- Node version: 20.2.0
+
+
 ### Bundle project
 
 - `yarn build`
